@@ -12,6 +12,10 @@
   "keywords": [
     "codemod-cli"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wagenet/ember-error-codemod.git"
+  },
   "dependencies": {
     "codemod-cli": "^3.2.0"
   },
